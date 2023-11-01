@@ -13,14 +13,21 @@ I'm a highly motivated student with a background in iOS app development and UI/U
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)](https://github.com/richardnkanga)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=richardnkanga&show_icons=true&theme=dark)](https://github.com/richardnkanga)
+
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=richardnkanga&)](https://github.com/richardnkanga)
+
+
+
 
 ## 🌐 Connect with Me
 
 Let's connect and explore opportunities together. You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/nkanga-richard)
+- [Instagram](https://instagram.com/nkanga_coded_it)
 - [Behance Portfolio](https://www.behance.net/richardnkanga)
+
 
 
 ## 🛠️ Skills
