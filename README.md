@@ -49,10 +49,15 @@ Here are a few of my favorite projects:
 3. [Project 3](link-to-project-3): Description.
 -->
 
+
+<!--
 ## 💌 Let's Collaborate!
 
 I'm always excited to connect with fellow developers and creators. If you have a project in mind or want to discuss iOS app development, UI/UX design, or any tech-related topics, please don't hesitate to reach out. You can email me at [fredricknkanga@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/nkanga-richard).
 
 Let's work together to create exceptional digital experiences! 🚀
+
+-->
+
 
 
