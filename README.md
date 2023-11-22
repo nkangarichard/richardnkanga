@@ -2,12 +2,12 @@
 <!-- Replace with Your Name -->
 # Hi, I'm Richard! 👋🏾
 
-I'm a highly motivated student with a background in iOS app development and UI/UX design. Welcome to my GitHub profile! Here, you'll find a blend of my projects, contributions, and a glimpse into my journey.
+I am iOS app development and UI/UX designer. Welcome to my GitHub profile! Here, you'll find a blend of my projects, contributions, and a glimpse into my journey.
 
 ## 🚀 Quick Facts
 
-- 🔭 I'm currently enrolled in a Mobile Solutions Development Graduate Certificate Program.
-- 🌱 I'm passionate about iOS app development and crafting user-centered digital experiences.
+- 🔭 I'm currently enrolled in a Mobile Solutions Development Graduate Certificate Program and I have a Bachelors Degree in computer science.
+- 🌱 I love creating iPhone apps and designing user-friendly digital experiences.
 - 🤝 I'm open to collaboration on exciting projects that involve app development or UI/UX design.
 - 🎯 My goal is to continually enhance my skills and contribute to innovative digital solutions.
 
